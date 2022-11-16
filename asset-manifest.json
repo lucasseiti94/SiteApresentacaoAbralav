@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.js": "/SiteApresentacaoAbralav/static/js/main.a4b81c2a.js",
-    "static/media/abralav-qdd.svg": "/SiteApresentacaoAbralav/static/media/abralav-qdd.8877844a85a8f5f3bda4dc94ef37f6a6.svg",
-    "index.html": "/SiteApresentacaoAbralav/index.html",
-    "main.a4b81c2a.js.map": "/SiteApresentacaoAbralav/static/js/main.a4b81c2a.js.map"
+    "main.js": "/static/js/main.7d749b3b.js",
+    "static/media/abralav-qdd.svg": "/static/media/abralav-qdd.8877844a85a8f5f3bda4dc94ef37f6a6.svg",
+    "index.html": "/index.html",
+    "main.7d749b3b.js.map": "/static/js/main.7d749b3b.js.map"
   },
   "entrypoints": [
-    "static/js/main.a4b81c2a.js"
+    "static/js/main.7d749b3b.js"
   ]
 }
